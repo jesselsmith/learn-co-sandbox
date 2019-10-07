@@ -1,0 +1,1 @@
+p [false, true, nil, nil].reduce{|a, b| a || b}
